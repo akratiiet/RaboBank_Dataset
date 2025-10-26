@@ -8,13 +8,9 @@ Please cite the following papers if you use this datasets:
 
 Bibtex code: @inproceedings{saxena2021banking,
 
-  title={The banking transactions dataset and its comparative analysis with scale-free networks},
-  
-  author={Saxena, Akrati and Pei, Yulong and Veldsink, Jan and van Ipenburg, Werner and Fletcher, George and Pechenizkiy, Mykola},
-  
-  booktitle={Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
-  
-  pages={283--296},
-  
+  title={The banking transactions dataset and its comparative analysis with scale-free networks},  
+  author={Saxena, Akrati and Pei, Yulong and Veldsink, Jan and van Ipenburg, Werner and Fletcher, George and Pechenizkiy, Mykola},  
+  booktitle={Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},  
+  pages={283--296},  
   year={2021}
 }
